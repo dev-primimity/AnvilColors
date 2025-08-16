@@ -1,0 +1,4 @@
+name: AnvilColors
+version: '1.0'
+main: me.primimity.anvilColors.Main
+api-version: '1.21'
