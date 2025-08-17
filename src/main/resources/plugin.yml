@@ -1,4 +1,14 @@
-name: AnvilColors
-version: '1.0'
 main: me.primimity.anvilColors.Main
+
+name: AnvilColors
+version: 1.0
+description: 'Allows players to use color codes when renaming items in anvils.'
 api-version: '1.21'
+
+author: Primimity
+website: https://discord.com/users/primimity
+
+permissions:
+  anvilcolors.use:
+    description: 'Allows to use color codes when renaming items in anvils.'
+    default: op
