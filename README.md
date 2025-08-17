@@ -15,7 +15,12 @@ A plugin that lets you use Minecraft color codes in anvils when renaming items.
 3. Restart or reload your server.
 
 ## 📂 Configuration
-No configuration required — plug and play.
+- No config needed for default usage.
+- Optional permissions for restricting access.
+
+  ```yml
+  enablePermission: false
+  ```
 
 ## ⚙️ Usage
 - Rename an item in an anvil.
@@ -25,4 +30,5 @@ No configuration required — plug and play.
 ## 🔗 Links
 Need a custom plugin? Message me on Discord:
 https://discord.com/users/primimity
+
 
