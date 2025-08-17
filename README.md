@@ -1,5 +1,7 @@
 # AnvilColors v1.0
 
+<img width="854" height="480" alt="2025-08-16_19 09 44-min" src="https://github.com/user-attachments/assets/63ff09c5-8c91-41d9-afca-71f7ebb2bb82" />
+
 A plugin that lets you use Minecraft color codes in anvils when renaming items.
 
 ## ✨ Features
@@ -23,3 +25,4 @@ No configuration required — plug and play.
 ## 🔗 Links
 Need a custom plugin? Message me on Discord:
 https://discord.com/users/primimity
+
